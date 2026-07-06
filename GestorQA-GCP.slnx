@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/GestorQA-GCP.Api/GestorQA-GCP.Api.csproj" />
+    <Project Path="src/GestorQA-GCP.Application/GestorQA-GCP.Application.csproj" />
+    <Project Path="src/GestorQA-GCP.Domain/GestorQA-GCP.Domain.csproj" />
+    <Project Path="src/GestorQA-GCP.Infrastructure/GestorQA-GCP.Infrastructure.csproj" />
+  </Folder>
+</Solution>

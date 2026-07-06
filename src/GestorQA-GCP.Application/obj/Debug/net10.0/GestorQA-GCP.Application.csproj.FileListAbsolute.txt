@@ -1,0 +1,16 @@
+/workspaces/GestorQA-GCP/src/GestorQA-GCP.Application/obj/Debug/net10.0/GestorQA-GCP.Application.csproj.AssemblyReference.cache
+/workspaces/GestorQA-GCP/src/GestorQA-GCP.Application/obj/Debug/net10.0/GestorQA-GCP.Application.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/GestorQA-GCP/src/GestorQA-GCP.Application/obj/Debug/net10.0/GestorQA-GCP.Application.AssemblyInfoInputs.cache
+/workspaces/GestorQA-GCP/src/GestorQA-GCP.Application/obj/Debug/net10.0/GestorQA-GCP.Application.AssemblyInfo.cs
+/workspaces/GestorQA-GCP/src/GestorQA-GCP.Application/obj/Debug/net10.0/GestorQA-GCP.Application.csproj.CoreCompileInputs.cache
+/workspaces/GestorQA-GCP/src/GestorQA-GCP.Application/obj/Debug/net10.0/GestorQA-GCP.Application.sourcelink.json
+/workspaces/GestorQA-GCP/src/GestorQA-GCP.Application/bin/Debug/net10.0/GestorQA-GCP.Application.deps.json
+/workspaces/GestorQA-GCP/src/GestorQA-GCP.Application/bin/Debug/net10.0/GestorQA-GCP.Application.dll
+/workspaces/GestorQA-GCP/src/GestorQA-GCP.Application/bin/Debug/net10.0/GestorQA-GCP.Application.pdb
+/workspaces/GestorQA-GCP/src/GestorQA-GCP.Application/bin/Debug/net10.0/GestorQA-GCP.Domain.dll
+/workspaces/GestorQA-GCP/src/GestorQA-GCP.Application/bin/Debug/net10.0/GestorQA-GCP.Domain.pdb
+/workspaces/GestorQA-GCP/src/GestorQA-GCP.Application/obj/Debug/net10.0/GestorQA.1ED8133D.Up2Date
+/workspaces/GestorQA-GCP/src/GestorQA-GCP.Application/obj/Debug/net10.0/GestorQA-GCP.Application.dll
+/workspaces/GestorQA-GCP/src/GestorQA-GCP.Application/obj/Debug/net10.0/refint/GestorQA-GCP.Application.dll
+/workspaces/GestorQA-GCP/src/GestorQA-GCP.Application/obj/Debug/net10.0/GestorQA-GCP.Application.pdb
+/workspaces/GestorQA-GCP/src/GestorQA-GCP.Application/obj/Debug/net10.0/ref/GestorQA-GCP.Application.dll
